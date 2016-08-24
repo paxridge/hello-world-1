@@ -1,1 +1,3 @@
 # hello-world-1
+
+Hi, just learning how to use git...
